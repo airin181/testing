@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+
+.item{
+    color: white;
+    background-color: black;
+}
+
+.item_selected{
+    color: red;
+}
+
+.mensajicos{
+    background-color: rgb(202, 77, 161);
+    font-weight: bold;
+    color: white;
+    padding: 7px;
+    margin: 15px;
+    margin-left: 0px;
+    width: 200px;
+}
+
+.mensajico-mal{
+    background-color: red;
+    color: white;
+}
