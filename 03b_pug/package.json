@@ -1,0 +1,17 @@
+{
+  "name": "03b_pug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mime": "^3.0.0",
+    "pug": "^3.0.2",
+    "start": "^5.1.0"
+  }
+}
